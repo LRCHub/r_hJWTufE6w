@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "SPECIALZ",
+  "base_artist": "King Gnu",
+  "createdAt": "2026-02-14T13:41:55.659710Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SPECIALZ",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/01_SPECIALZ_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SPECIALZ",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/02_SPECIALZ_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SPECIALZ",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/03_SPECIALZ_Will_Stetson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SPECIALZ",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/04_SPECIALZ_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SPECIALZ",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/05_SPECIALZ_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Specialz (from Jujutsu Kaisen)",
+      "artist": "Jonathan Young",
+      "has_synced": false,
+      "path": "select/06_Specialz_(from_Jujutsu_Kaisen)_Jonathan_Young.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Specialz (from Jujutsu Kaisen)",
+      "artist": "Jonathan Young, Villainous",
+      "has_synced": false,
+      "path": "select/07_Specialz_(from_Jujutsu_Kaisen)_Jonathan_Young,_Villainous.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "SPECIALZ (English Cover)「Jujutsu Kaisen OP 4」【Will Stetson】",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/08_SPECIALZ_(English_Cover)「Jujutsu_Kaisen_OP_4」【Will_Stetson】_Will_Stetson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SPECIALZ (Live)",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/09_SPECIALZ_(Live)_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SPECIALZ",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/10_SPECIALZ_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Specialz (From \"Jujutsu Kaisen) Tv - Size",
+      "artist": "Kuraiinu",
+      "has_synced": true,
+      "path": "select/11_Specialz_(From__Jujutsu_Kaisen)_Tv_-_Size_Kuraiinu.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "SPECIALZ (from \"Jujutsu Kaisen\") TV-Size",
+      "artist": "Kuraiinu",
+      "has_synced": true,
+      "path": "select/12_SPECIALZ_(from__Jujutsu_Kaisen_)_TV-Size_Kuraiinu.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "SPECIALZ",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/13_SPECIALZ_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "SPECIALZ",
+      "artist": "Trickle",
+      "has_synced": true,
+      "path": "select/14_SPECIALZ_Trickle.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "SPECIALZ (Jujutsu Kaisen)",
+      "artist": "NateWantsToBattle",
+      "has_synced": true,
+      "path": "select/15_SPECIALZ_(Jujutsu_Kaisen)_NateWantsToBattle.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SPECIALZ",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/pl_01_SPECIALZ_King_Gnu.txt"
+    }
+  ]
+}
